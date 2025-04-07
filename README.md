@@ -20,15 +20,16 @@ This project explores the key factors influencing happiness across U.S. states, 
 ## Data Visualization
 **Map:** 
 ![Happiness Map](happiness_map.jpg)
+[View Tableau Visualization](https://public.tableau.com/shared/S97DMCWST?:display_count=n&:origin=viz_share_link)
 ![Indicators Map](US_States_Indicators.jpg)
+[View Tableau Visualization](https://public.tableau.com/shared/XTJGWSDJ4?:display_count=n&:origin=viz_share_link)
 
 **Scatter Chart:**
 ![Happiness Correlation Chart](Happiness_Correlation_Scatter_Plots.jpg)
+[View Tableau Visualization](https://public.tableau.com/shared/TBSNDB2J4?:display_count=n&:origin=viz_share_link)
 
 ## Data Sources
 - [Happiest States 2025](https://worldpopulationreview.com/state-rankings/happiest-states)
 - [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
-## Tableau Dashboard
-[View Tableau Visualization](https://public.tableau.com/shared/S97DMCWST?:display_count=n&:origin=viz_share_link)
 
