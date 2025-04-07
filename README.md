@@ -24,3 +24,7 @@ This project explores the key factors influencing happiness across U.S. states, 
 
 **Scatter Chart:**
 ![Happiness Correlation Chart](Happiness_Correlation_Scatter_Plots.jpg)
+
+## References
+- [Happiest States 2025](https://worldpopulationreview.com/state-rankings/happiest-states)
+- [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
