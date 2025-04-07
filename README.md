@@ -27,7 +27,6 @@ This project explores the key factors influencing happiness across U.S. states, 
 <img src="US_States_Indicators.jpg" alt="Indicators Map" width="1100" /> 
 
 - **Scatter Chart:**
-
 <img src="Happiness_Correlation_Scatter_Plots.jpg" alt="Happiness Correlation Chart" width="1100" />  
 
 ## Data Sources
