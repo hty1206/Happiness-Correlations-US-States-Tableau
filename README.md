@@ -5,7 +5,7 @@ This project explores the key factors influencing happiness across U.S. states, 
 ## Project Goals
 - **Analyze happiness distribution** across states.
 - **Investigate correlations between happiness and other factors** like obesity, work environment, community environment and well-being.
-- **Provide policy recommendations** to enhance happiness.<span style="color:red;">**↑**
+- **Provide policy recommendations** to enhance happiness.**↑**
 
 ## Data Overview
 | Column                                    | Data Type | Description                                                                 |
@@ -34,4 +34,4 @@ This project explores the key factors influencing happiness across U.S. states, 
 - [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
 ## For More Detailed Information
-For more detailed information on the project, please download the [Word document here](Exploring_the_Correlations_Between_Happiness_and_Other_Key_Factors_in_US_States.docx).
+<span style="color:red;">For more detailed information on the project, please download the [Word document here](Exploring_the_Correlations_Between_Happiness_and_Other_Key_Factors_in_US_States.docx).
