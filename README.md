@@ -1,13 +1,13 @@
 # 💫🇺🇸 Happiness Correlations in U.S. States
-## ☞Introduction
+## ☞ Introduction
 This project explores the key factors influencing happiness across U.S. states, focusing on the relationship between happiness, obesity rates, work environments, community conditions, and emotional/physical well-being. By understanding these connections, the aim is to propose policy recommendations that can improve people's quality of life and well-being across different regions in USA.
 
-## Project Goals
+## ☞ Project Goals
 - **Analyze happiness distribution** across states.
 - **Investigate correlations between happiness and other factors** like obesity, work environment, community environment and well-being.
 - **Provide policy recommendations** to enhance happiness.**↑**
 
-## Data Overview
+## ☞ Data Overview
 | Column                                    | Data Type | Description                                                                 |
 |-------------------------------------------|-----------|-----------------------------------------------------------------------------|
 | **State**                                 | String    | The name of the state                                                        |
@@ -17,7 +17,7 @@ This project explores the key factors influencing happiness across U.S. states, 
 | **Work Environment Rank**                 | Integer   | The work environment ranking of each state                                   |
 | **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state    |
 
-## Data Visualization 
+## ☞ Data Visualization 
 ***[View Tableau](https://public.tableau.com/shared/P6CDR2NW2?:display_count=n&:origin=viz_share_link)***
 - **Map:**
 
@@ -29,9 +29,9 @@ This project explores the key factors influencing happiness across U.S. states, 
 - **Scatter Chart:**
 <img src="Happiness_Correlation_Scatter_Plots.jpg" alt="Happiness Correlation Chart" width="1100" />  
 
-## Data Sources
+## ☞ Data Sources
 - [Happiest States 2025](https://worldpopulationreview.com/state-rankings/happiest-states)
 - [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
-## For More Detailed Information
+## ☞ For More Detailed Information
 For more detailed information on the project, please download the [Word document here](Exploring_the_Correlations_Between_Happiness_and_Other_Key_Factors_in_U.S._States.docx).
