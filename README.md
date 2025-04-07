@@ -17,7 +17,7 @@ This project explores the key factors influencing happiness across U.S. states, 
 | **Work Environment Rank**                 | Integer   | The work environment ranking of each state                                   |
 | **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state    |
 
-## Data Visualization[View Tableau Visualization](https://public.tableau.com/shared/P6CDR2NW2?:display_count=n&:origin=viz_share_link)
+## Data Visualization [View Tableau](https://public.tableau.com/shared/P6CDR2NW2?:display_count=n&:origin=viz_share_link)
 - **Map:**
 National Happiness Map  
 <img src="happiness_map.jpg" alt="Happiness Map" width="1100" />  
