@@ -33,7 +33,5 @@ This project explores the key factors influencing happiness across U.S. states, 
 - [Happiest States 2025](https://worldpopulationreview.com/state-rankings/happiest-states)
 - [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
-## Additional Information
 ## For More Detailed Information
-
 For more detailed information on the project, please download the [Word document here](Exploring_the_Correlations_Between_Happiness_and_Other_Key_Factors_in_U.S._States.docx).
