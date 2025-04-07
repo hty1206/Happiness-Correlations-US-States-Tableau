@@ -20,4 +20,4 @@ This project explores the key factors influencing happiness across U.S. states, 
 ## Data Visualization
 **Map:**  
 ![Happiness Map](happiness_map.jpg)
-![Indicators Map](US_States_Indicators_Maps.jpg)
+![Indicators Map](US_States_Indicators.jpg)
