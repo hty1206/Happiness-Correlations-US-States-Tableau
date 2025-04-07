@@ -8,7 +8,6 @@ This project explores the key factors influencing happiness across U.S. states, 
 - **Provide policy recommendations** to enhance happiness.**↑**
 
 ## Data Overview
-
 | Column                                    | Data Type | Description                                                                 |
 |-------------------------------------------|-----------|-----------------------------------------------------------------------------|
 | **State**                                 | String    | The name of the state                                                        |
