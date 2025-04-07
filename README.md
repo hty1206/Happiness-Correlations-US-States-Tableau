@@ -29,7 +29,7 @@ National Happiness Map
 
 
 - **Scatter Chart:**  
-<img src="Happiness_Correlation_Scatter_Plots.jpg" alt="Happiness Correlation Chart" width="1100" />  
+<img src="Happiness_Correlation_Scatter_Plots.jpg" alt="Happiness Correlation Chart" width="1100" />
 [View Tableau Visualization](https://public.tableau.com/shared/TBSNDB2J4?:display_count=n&:origin=viz_share_link)
 
 ## Data Sources
