@@ -21,11 +21,12 @@ This project explores the key factors influencing happiness across U.S. states, 
 - **Map:** 
 <img src="happiness_map.jpg" alt="Happiness Map" width="500" />
 [View Happiness Visualization](https://public.tableau.com/views/Happiness_17438148640900/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Indicators Map](US_States_Indicators.jpg)
+
+<img src="US_States_Indicators.jpg" alt="Indicators Map" width="500" />
 [View Tableau Visualization](https://public.tableau.com/views/Happiness_17438148640900/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **Scatter Chart:**
-![Happiness Correlation Chart](Happiness_Correlation_Scatter_Plots.jpg)
+<img src="Happiness_Correlation_Scatter_Plots.jpg" alt="Happiness Correlation Chart" width="500" />
 [View Tableau Visualization](https://public.tableau.com/shared/TBSNDB2J4?:display_count=n&:origin=viz_share_link)
 
 ## Data Sources
