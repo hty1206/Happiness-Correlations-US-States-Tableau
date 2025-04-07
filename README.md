@@ -34,4 +34,4 @@ This project explores the key factors influencing happiness across U.S. states, 
 - [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
 ## For More Detailed Information
-For more detailed information on the project, please download the [Word document here](Exploring the Correlations Between Happiness and Other Key Factors in U.S. States.docx).
+For more detailed information, please download the full report from the Word document.
