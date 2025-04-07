@@ -16,3 +16,6 @@ This project explores the key factors influencing happiness across U.S. states, 
 | **Emotional & Physical Well-Being Rank**  | Integer   | The emotional and physical well-being ranking of each state                  |
 | **Work Environment Rank**                 | Integer   | The work environment ranking of each state                                   |
 | **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state    |
+
+## Data Visualization
+![Happiness Map](happiness_map.jpg)
