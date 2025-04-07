@@ -9,11 +9,11 @@ This project explores the key factors influencing happiness across U.S. states, 
 
 ## Data Overview
 
-|Column                                     | Data Type |
-|-------------------------------------------|-----------|-------------------------------------------------------------------------- |
-| **State**                                 | String    | The name of the state                                                     |
-| **Happiness Score**                       | Integer   | Happiness levels in each state                                            |
-| **Obesity Rate**                          | Float     | Percentage of the population that is obese in each state                  |
-| **Emotional & Physical Well-Being Rank**  | Integer   | The emotional and physical well-being ranking of each state               |
-| **Work Environment Rank**                 | Integer   | The work environment ranking of each state                                |
-| **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state |
+| Column                                    | Data Type | Description                                                                 |
+|-------------------------------------------|-----------|-----------------------------------------------------------------------------|
+| **State**                                 | String    | The name of the state                                                        |
+| **Happiness Score**                       | Integer   | Happiness levels in each state                                               |
+| **Obesity Rate**                          | Float     | Percentage of the population that is obese in each state                     |
+| **Emotional & Physical Well-Being Rank**  | Integer   | The emotional and physical well-being ranking of each state                  |
+| **Work Environment Rank**                 | Integer   | The work environment ranking of each state                                   |
+| **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state    |
