@@ -30,4 +30,5 @@ This project explores the key factors influencing happiness across U.S. states, 
 - [National Obesity by State](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
 ## Tableau Dashboard
-[View Tableau Visualization]((https://public.tableau.com/shared/S97DMCWST?:display_count=n&:origin=viz_share_link))
+[View Tableau Visualization](https://public.tableau.com/shared/S97DMCWST?:display_count=n&:origin=viz_share_link)
+
