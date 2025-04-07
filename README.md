@@ -8,21 +8,12 @@ This project explores the key factors influencing happiness across U.S. states, 
 - **Provide policy recommendations** to enhance happiness.**↑**
 
 ## Data Overview
-This project uses data from publicly available government datasets and research institutions, with the following columns:
-- **State**: The name of the state.
-- **Happiness Score**: Happiness levels in each state.
-- **Obesity Rate**: Percentage of the population that is obese in each state.
-- **Emotional & Physical Well-Being Rank**: The emotional and physical well-being ranking of each state.
-- **Work Environment Rank**: The work environment ranking of each state.
-- **Community & Environment Rank**: The ranking based on community and environmental conditions in each state.
-
-- The datasets are combined (inner join) to ensure comprehensive analysis, focusing on the relevant columns.
 
 |Column                                     | Data Type |
-|-------------------------------------------|-----------|
-| **State**                                 | String    |
-| **Happiness Score**                       | Integer   |
-| **Obesity Rate**                          | Float     |
-| **Emotional & Physical Well-Being Rank**  | Integer   |
-| **Work Environment Rank**                 | Integer   |
-| **Community & Environment Rank**          | Integer   |
+|-------------------------------------------|-----------|-------------------------------------------------------------------------- |
+| **State**                                 | String    | The name of the state                                                     |
+| **Happiness Score**                       | Integer   | Happiness levels in each state                                            |
+| **Obesity Rate**                          | Float     | Percentage of the population that is obese in each state                  |
+| **Emotional & Physical Well-Being Rank**  | Integer   | The emotional and physical well-being ranking of each state               |
+| **Work Environment Rank**                 | Integer   | The work environment ranking of each state                                |
+| **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state |
