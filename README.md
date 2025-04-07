@@ -16,9 +16,7 @@ This project uses data from publicly available government datasets and research 
 - **Work Environment Rank**: The work environment ranking of each state.
 - **Community & Environment Rank**: The ranking based on community and environmental conditions in each state.
 
-## Data Cleaning and Merging
 - The datasets are combined (inner join) to ensure comprehensive analysis, focusing on the relevant columns.
-- Data types were confirmed to ensure proper handling:
 
 |Column                                     | Data Type |
 |-------------------------------------------|-----------|
