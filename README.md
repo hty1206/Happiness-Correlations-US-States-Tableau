@@ -20,5 +20,4 @@ This project explores the key factors influencing happiness across U.S. states, 
 ## Data Visualization
 USA National Happiness Map
 ![Happiness Map](happiness_map.jpg)
-**Darker areas:** higher happiness scores
-**Lighter areas:** lower happiness scores 
+**Darker areas:** higher happiness scores  **Lighter areas:** lower happiness scores 
