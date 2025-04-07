@@ -18,7 +18,7 @@ This project explores the key factors influencing happiness across U.S. states, 
 | **Community & Environment Rank**          | Integer   | The ranking based on community and environmental conditions in each state    |
 
 ## ☞ Data Visualization 
-***[You can interact with the visualization by exploring the data and adjusting the filters to view different insights here](https://public.tableau.com/shared/P6CDR2NW2?:display_count=n&:origin=viz_share_link)***  
+***[You can interact with the Tableau visualization here](https://public.tableau.com/shared/P6CDR2NW2?:display_count=n&:origin=viz_share_link)***  
 - ✒︎ **Map:**
 
  National Happiness Map  
